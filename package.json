@@ -2,7 +2,7 @@
   "name": "url-shortener-client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://af0a-49-43-2-209.ngrok-free.app",
+  "proxy": "http://localhost:3000",
   "dependencies": {
     "axios": "^1.9.0",
     "bootstrap": "^5.2.3",
